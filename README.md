@@ -111,7 +111,6 @@ Future development directions include:
 * PyTorch
 * NumPy
 * Matplotlib
-* Captum
 * Scikit-learn
 
 ---
